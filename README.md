@@ -5,7 +5,7 @@ A simple and interactive QR Code Generator built using HTML, CSS, and JavaScript
 ---
 
 ## 🚀 Live Demo
-👉 your-live-link-here.netlify.app
+👉
 
 ---
 
