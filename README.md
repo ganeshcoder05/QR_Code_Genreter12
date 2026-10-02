@@ -4,11 +4,6 @@ A simple and interactive QR Code Generator built using HTML, CSS, and JavaScript
 
 ---
 
-## 🚀 Live Demo
-👉
-
----
-
 ## 📌 Features
 
 - Generate QR code instantly ⚡
